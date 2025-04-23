@@ -1349,7 +1349,7 @@ p.slide-numbering.left {
   right: 0;
   width: 100%;
   height: 100%;
-  background-image: url(../images/sl13-bg.webp);
+  background-image: url(../images/sl13-bg-img.webp);
   background-position: right;
   background-repeat: no-repeat;
   background-size: auto 100%;
@@ -1515,7 +1515,7 @@ p.slide-numbering.left {
   transform: translateX(-50%);
   width: 100em;
   height: 100%;
-  background-image: url(../images/sl14-right.webp);
+  background-image: url(../images/sl14-right-img.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
